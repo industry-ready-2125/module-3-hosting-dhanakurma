@@ -1,0 +1,7 @@
+body {
+    background-color:darkseagreen;
+    font-size: larger;
+    font-family: cursive;
+    display: flex;
+    justify-content:first baseline;
+}

@@ -1,0 +1,20 @@
+body {
+    background-image: url('ieee.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px;
+    font-size: large;
+}
+h1 {
+    color: rgb(219, 60, 219);
+    font-style: italic;
+}
+p {
+    color: black;
+}
+div {
+    column-count: 3;
+    column-gap: 10px;
+    font-size: large;
+    padding: 20px;
+}
